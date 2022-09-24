@@ -13,7 +13,7 @@
 
 # Output
 
-![alt text](Browser Output.png)
+![BrowserOutput](Browser Output.png)
 
-![alt text](MySQL DB.png)
+![Database](MySQL DB.png)
 
