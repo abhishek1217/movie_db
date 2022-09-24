@@ -13,7 +13,7 @@
 
 # Output
 
-![alt text](https://github.com/[abhishek1217]/[movie_db]/blob/[master]/Browser Output.png?raw=true)
+![alt text](https://github.com/[abhishek1217]/[movie_db]/blob/[master]/BrowserOutput.png?raw=true)
 
-![alt text](https://github.com/[abhishek1217]/[movie_db]/blob/[master]/MySQL DB.png?raw=true)
+![alt text](https://github.com/[abhishek1217]/[movie_db]/blob/[master]/MySQLDB.png?raw=true)
 
