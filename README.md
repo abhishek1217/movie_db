@@ -13,7 +13,7 @@
 
 # Output
 
-![BrowserOutput](Browseroutput.png)
+![BrowserOutput](Output.png)
 
 ![Database](Db.png)
 
